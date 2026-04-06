@@ -94,7 +94,7 @@ View(dm.na)
 chisq.test(x$gender, dm.na)
 
 #p-value = 0.7162 we do not reject th H0
-#H0: gender and dm.na are indipendent (noch related)
+#H0: gender and dm.na are indipendent (not related)
 #data is missing randomly (estimation possible)
 
 #Imputation /impute it
